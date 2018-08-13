@@ -7,3 +7,5 @@ This change is made on stage area
 ## Deployment
 This change is made on working directory
 ## How to contribute
+### Copyright
+add copyright info
