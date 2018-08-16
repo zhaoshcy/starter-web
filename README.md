@@ -11,6 +11,6 @@ add auto merge
 ### Copyright
 add copyright info
 
-add one line for rebasing in master branch
+modify one line in master branch
 
 
