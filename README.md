@@ -1,5 +1,3 @@
-
-
 # Starter Web Project
 This change is made in remote repository
 ## Introduction
