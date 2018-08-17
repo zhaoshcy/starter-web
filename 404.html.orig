@@ -4,7 +4,12 @@
     add copy right to this file
     add one line
     add one more line
+<<<<<<< HEAD
+    modify one line master branch add one line
+=======
     modify on master branch
+    modify on conflict branch add one line
+>>>>>>> conflict
 -->
 <html lang="en">
     <head>
